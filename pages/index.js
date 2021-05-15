@@ -18,14 +18,14 @@ export default function Home() {
         </h1>
 
         <div className="grid">
-          <Link href="">
+          <Link href="/posts">
             <a className="card">
               <h3>Blog &rarr;</h3>
               <p>Check out my technical blog on a range of topics here.</p>
             </a>
           </Link>
 
-          <Link href="">
+          <Link href="/projects">
             <a className="card">
               <h3>Projects &rarr;</h3>
               <p>Check out some of my projects here.</p>
